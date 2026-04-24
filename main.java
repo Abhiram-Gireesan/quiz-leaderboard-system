@@ -11,7 +11,7 @@ import org.json.JSONObject;
 public class Main {
 
     private static final String BASE_URL = "https://devapigw.vidalhealthtpa.com/srm-quiz-task";
-    private static final String REG_NO = "RA2311003020644"; // 🔁 
+    private static final String REG_NO = "RA2311003020644"; // 
 
     public static void main(String[] args) throws Exception {
 
